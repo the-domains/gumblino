@@ -1,6 +1,7 @@
 name: gumblino
 favicon: null
 layout_spectrum: 0.94337
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -14,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ede7db'
+    - '#260402'
+    - '#a22810'
+    - '#e0b0b0'
+    - '#a55451'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
